@@ -1,1 +1,1 @@
-FROM gcr.io/spinnaker-marketplace/orca:1.1.0-20181003100130
+FROM gcr.io/spinnaker-marketplace/orca:2.6.2-20190406050308
